@@ -40,3 +40,7 @@ button:hover {
 .text-center {
     color: white;
 }
+h1 {
+    color : white;
+    text-align: center;
+}
