@@ -25,7 +25,6 @@ body {
 .toggles {
     color: black;
 }
-
 .name {
     padding-top: 3px;
 }
@@ -43,7 +42,5 @@ button:hover {
 h1 {
     color : white;
     text-align: center;
-}
-.btn btn-success {
-    color:red;
+    padding-bottom: 5px;
 }
